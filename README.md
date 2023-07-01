@@ -12,6 +12,16 @@
 
 ```pip install opencv-python```
 
+## Exemplo
+
+### Imagem original
+
+![Alt text](./imagem.jpg "Elizabeth (BioShock)")
+
+### Imagem processada
+
+![Alt text](./imagem_processada.jpg "Elizabeth (BioShock) - Contorno")
+
 ## Ultilidades:
 
 - Detecção de bordas: A detecção de bordas é uma tarefa importante em muitas aplicações de processamento de imagens, como segmentação de objetos e reconhecimento de padrões. O workflow que implementamos pode ser usado para detectar bordas em imagens e destacar as áreas de interesse.
