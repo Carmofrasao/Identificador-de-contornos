@@ -1,4 +1,4 @@
-# Fundamentos de processamento de imagens e filtros
+# Identificador de contornos
 
 ## Para usar o jupyter lab:
 
